@@ -1,2 +1,2 @@
 # agile-final-project
-Repo for coursera course
+This repo is made to complete a lab from coursera.
